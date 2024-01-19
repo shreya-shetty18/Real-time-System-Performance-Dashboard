@@ -1,1 +1,3 @@
 # Real-time-System-Performance-Dashboard
+
+This Python script serves as a System Performance Monitor, continuously collecting key metrics from your system and storing them in a Microsoft SQL Server database. The script utilizes the psutil library to fetch real-time data on CPU usage, memory usage, network activity, and disk usage. The collected data is then inserted into a designated SQL Server database, allowing for long-term tracking and analysis. Additionally, the real-time data stored in Microsoft SQL Server Management Studio is harnessed by Power BI to create an interactive dashboard showcasing the system's performance trends.
