@@ -1,4 +1,4 @@
-# ⚙️ Real-time System Performance Dashboard
+# ⚙️ Real-time System Performance Dashboard using Power BI
 
 This project provides a real-time system performance monitoring solution using Python, SQL Server, and Power BI. It continuously collects system-level metrics like CPU usage, memory stats, network I/O, and disk usage, logs them into a SQL Server database, and visualizes them using an interactive Power BI dashboard.
 
